@@ -5,6 +5,12 @@
 
 Here are some ideas to get you started:
 -->
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap');
+</style>
+
+
 <h1 align="center">Hi 👋, I'm Barry Frank Knight</h1>
 <h3 align="center">A Web developer From Thailand</h3>
 
