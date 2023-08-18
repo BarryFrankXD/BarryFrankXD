@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Barry Frank Knight</h1>
 <h3 align="center">A Web developer From Thailand</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BarryFrankXD&label=Profile%20views&color=0e75b6&style=flat" alt="pf-view" /> </p>
 
-- I’m currently working on **Minecraft Clone**
-- Fact about me **Im a Great Developer**
-<br><br>
-- What language Do I Code In? **HTML CSS JS LUA**
+
+<h3 align="left">About Me</h3>
+- I’m **Barry Frank Knight**
+- My age is **14**
 - Feel free to ask me about **HTML and JS**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BarryFrankXD&label=Profile%20views&color=0e75b6&style=flat" alt="pf-view" /> </p>
 
 <h3 align="left">My Social Media</h3>
 <p align="left">
