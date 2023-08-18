@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap');
-</style>
+<html>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap" rel="stylesheet">
 
 
 <h1 align="center">Hi 👋, I'm Barry Frank Knight</h1>
@@ -28,3 +28,6 @@ Here are some ideas to get you started:
 </p>
 <h3 align="left">Support Me</h3>
 <p>i do not accept support right now</p>
+
+
+</html>
