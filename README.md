@@ -23,13 +23,16 @@ Here are some ideas to get you started:
 - Feel free to ask me about  **HTML and JS**
 
 
-# My Social Media3
+# My Social Media
 <p align="left">
 <a href="https://instagram.com/itsnot_barryfrank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="social" height="30" width="40" /></a>
 </p>
 
 # Support Me
 <p>i do not accept support right now</p>
+
+# Projects
+- am on a project ***Minecraft clone***
 
 
 </html>
