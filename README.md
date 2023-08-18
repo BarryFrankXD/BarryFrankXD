@@ -15,19 +15,19 @@ Here are some ideas to get you started:
 <h3 align="center">A Web developer From Thailand</h3>
 
 
-
-<h3 align="left">About Me</h3>
-- I’m **Barry Frank Knight**
-- My age is **14**
-- Feel free to ask me about **HTML and JS**
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BarryFrankXD&label=Profile%20views&color=0e75b6&style=flat" alt="pf-view" /> </p>
 
-<h3 align="left">My Social Media</h3>
+# About Me
+- I’m  **Barry Frank Knight**
+- My age is  **14**
+- Feel free to ask me about  **HTML and JS**
+
+
+# My Social Media3
 <p align="left">
 <a href="https://instagram.com/itsnot_barryfrank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="social" height="30" width="40" /></a>
 </p>
-<h3 align="left">Support Me</h3>
+# Support Me
 <p>i do not accept support right now</p>
 
 
