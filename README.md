@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - I’m **Barry Frank Knight**
 - My age is **14**
 - Feel free to ask me about **HTML and JS**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BarryFrankXD&label=Profile%20views&color=0e75b6&style=flat" alt="pf-view" /> </p>
 
 <h3 align="left">My Social Media</h3>
