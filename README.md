@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - I’m  **Barry Frank Knight**
 - My age is  **14**
 - Feel free to ask me about  **HTML and JS**
-**Social Media**
+<p> **Social Media** </p>
 <p align="left">
 <a href="https://instagram.com/itsnot_barryfrank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="social" height="30" width="40" /></a>
 </p>
