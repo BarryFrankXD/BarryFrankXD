@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 <p>i do not accept support right now</p>
 
 # Projects
-- am on a project ***Minecraft clone***
+- Seraphine discord bot
+- Minecraft Clone
+- Twitter Clone
 
 
 </html>
