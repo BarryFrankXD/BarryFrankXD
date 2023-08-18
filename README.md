@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BarryFrankXD&label=Profile%20views&color=0e75b6&style=flat" alt="pf-view" /> </p>
 
 - I’m currently working on **Minecraft Clone**
+- Fact about me **Im a Great Developer**
 
 <h3 align="left">My Social Media</h3>
 <p align="left">
