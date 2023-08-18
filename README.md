@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://instagram.com/itsnot_barryfrank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="social" height="30" width="40" /></a>
 </p>
+<br><br>
+<h3 align="left">Support Me</h3>
+<p>i do not accept support right now</p>
